@@ -2,7 +2,7 @@
 
 This tracker sends users an email detailing whether or not the [McDonald Observatory](https://mcdonaldobservatory.org/) has re-opened to visitors, and notifies users of any new press releases. 
 
-<img src="mcdonald_obs_moon.jpeg" alt="Moon from McDonald Observatory 36 inch telescope" style="width: 100px;"/>
+<img src="mcdonald_obs_moon.jpeg" alt="Moon from McDonald Observatory 36 inch telescope" width="200" height="200"/>
 
 ## Getting Started
 
