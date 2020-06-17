@@ -8,6 +8,6 @@ config.read('./ref/config.ini')
 if __name__ == '__main__':
     se.send_email(config['email_sender']['email'],
                   config['email_sender']['secret_key'],
-                  config['email_receiver1']['email'],
+                  config['email_recipient']['email'],
                   "McDonald Observatory Tracker", 
                   se.concat_message())
