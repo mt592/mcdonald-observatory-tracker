@@ -30,5 +30,6 @@ In a future release this tracker will be extended to notify users of when telesc
 ### Authors and Acknowledgment
 
 Author: **Michelle Turovsky**
+
 Acknowledgment: David Okwii on [stackoverflow](https://stackoverflow.com/questions/10147455/how-to-send-an-email-with-gmail-as-provider-using-python)
 
